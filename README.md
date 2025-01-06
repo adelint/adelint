@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Adelin Timar, currently student at Tehnical University of Cluj-Napoca, Faculty of Automation and Computer Science. 
-- 👀 I’m interested in automation control systems and programming fields.
-- 🌱 I’m currently learning Java, C# and SQL Language.
+- 👋 Hi, I’m Adelin Timar, a graduate of Automation and Computer Science from the Technical University of Cluj-Napoca.
+- 👀 I’m passionate about software engineering, with a focus on Java development and the Spring framework.
+- 💻 I have experience with various technologies such as Maven, databases (SQL, NoSQL), version control (Git, GitHub, GitLab) and cloud platforms (AWS + Docker).
+- 🎯 Currently, I work at a multinational company, and I’m focused on enhancing my skills in cloud computing and microservices architecture.
+- 🌱 In addition to my professional work, I am actively involved in personal projects to keep up with the latest industry trends and build new skills.
+- 🗣 Strong communicator and team player, passionate about collaborative development and problem-solving.
 - 📫 You can contact me at: adelintimar@gmail.com.
 
 <!---
